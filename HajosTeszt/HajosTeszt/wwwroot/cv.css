@@ -1,0 +1,27 @@
+﻿
+ #tarto {background-color:lightgray;}
+#szoveg {
+    Border: 1px solid red;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 10px;
+}
+#etel {
+    Border: 1px solid white;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 10px;
+}
+#konyv {
+    Border: 1px solid green;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 10px;
+}
+span {
+    color: fuchsia;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+}
+
