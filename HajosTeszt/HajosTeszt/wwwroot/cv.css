@@ -24,4 +24,17 @@ span {
     font-style: italic;
     font-weight: bold;
 }
+#szoveg a{
+    padding: 10px;
+    border-radius: 25px;
+    background-color: blue;
+    color: white;
+}
+#szoveg a:hover{
+    background-color: fuchsia;
+}
+img {
+    display: block;
+    margin: auto;
+}
 
